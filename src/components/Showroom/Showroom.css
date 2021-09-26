@@ -1,0 +1,15 @@
+.show {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  column-gap: 8px;
+}
+.car-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+  column-gap: 15px;
+  row-gap: 15px;
+  background-color: transparent;
+}
+h1 {
+}
